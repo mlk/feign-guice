@@ -17,3 +17,12 @@ A module to marry together Feign bound resources to the Guice dependency injecti
             System.out.println(contributor.login + " (" + contributor.contributions + ")");
         }
 ```
+
+It is on Maven, so use it with:
+```
+<dependency>
+  <groupId>com.github.mlk</groupId>
+  <artifactId>feign-guice</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
