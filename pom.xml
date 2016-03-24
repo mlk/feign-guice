@@ -4,7 +4,7 @@
 
     <groupId>com.github.mlk</groupId>
     <artifactId>feign-guice</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Feign Guice</name>
 
     <description>Binds Feign resources into the Guice dependency injection framework.</description>
