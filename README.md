@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mlk/feign-guice.svg?branch=master)](https://travis-ci.org/mlk/feign-guice) [![codecov.io](https://codecov.io/github/mlk/feign-guice/coverage.svg?branch=master)](https://codecov.io/github/mlk/feign-guice?branch=master)
+
 # feign-guice
 A module to marry together Feign bound resources to the Guice dependency injection framework. 
 
