@@ -1,0 +1,5 @@
+build:
+  image: 8-jdk
+  commands:
+    - mvn package
+
